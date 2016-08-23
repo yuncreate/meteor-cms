@@ -1,1 +1,3 @@
-# meteor-cms
+# 基于Meteor 1.4 及 orion 构建的cms系统
+
+# 可用于快速开发展示型网站的内容管理系统
